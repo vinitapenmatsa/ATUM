@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ATUM</string>
+    <string-array name="menu_options">
+        <item>Summary</item>
+        <item>Panels</item>
+        <item>Battery</item>
+        <item>Inverter</item>
+    </string-array>
+
+    <string-array name="summary_items">
+        <item>Generated : 10kw</item>
+        <item>Consumed: 2kw</item>
+        <item>Battery Level: 60%</item>
+        <item>Sent To Grid: 8kw </item>
+    </string-array>
+    <array name="summary_items_icons">
+        <item>@drawable/ic_solar_panel</item>
+        <item>@drawable/ic_house</item>
+        <item>@drawable/ic_home_battery</item>
+        <item>@drawable/ic_electricity</item>
+    </array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Strings related to Wifi connections -->
+    <string name="wifi_disabled">WIFI is switched off. Enable?</string>
+    <string name="enable_wifi">Enable WIFI</string>
+    <string name="exit_app">Close Application</string>
+    <string name="wifi_not_found">Network %s not found.</string>
+    <string name="wifi_not_connected">Could not connect to %s</string>
+    <string name="connecting_to_wifi">Connecting to WiFi: %s</string>
+    <string name="connecting">Connecting...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="unit_summary_desc">Contains unit summary</string>
+
+    <!-- image conent descriptions -->
+    <string name="summary_grid_display_image">Summary Grid Display Image</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1069918086047",
+    "firebase_url": "https://atum-50e7b.firebaseio.com",
+    "project_id": "atum-50e7b",
+    "storage_bucket": "atum-50e7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069918086047:android:291f9fe5ee245589",
+        "android_client_info": {
+          "package_name": "com.eyedentify.vinitapenmatsa.atum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069918086047-2q0kgh6pok9q7fs7bbjmk45so9qv5pmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eyedentify.vinitapenmatsa.atum",
+            "certificate_hash": "09ebec4c03840f968037a99a0e1c8247ae2ddec0"
+          }
+        },
+        {
+          "client_id": "1069918086047-63ch6up4c60db2i7sur8anbb9su2e9ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPMCrQJOlCWsuR28ELk8NELeMtamxtBfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069918086047-63ch6up4c60db2i7sur8anbb9su2e9ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

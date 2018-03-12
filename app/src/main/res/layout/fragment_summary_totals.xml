@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:id="@+id/totalsLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="10dp"
+        android:paddingTop="10dp"
+        android:layout_marginLeft="35dp"
+        android:gravity="center_horizontal"/>
+    <TextView
+        android:id="@+id/totalsValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/totalsLabel"
+        android:textSize="14dp"
+        android:textAlignment="center"
+        android:textColor="#111"
+        android:layout_marginLeft="35dp"
+        android:paddingBottom="10dp"
+        android:gravity="center_horizontal"/>
+
+</RelativeLayout>
